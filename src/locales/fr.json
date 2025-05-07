@@ -1,4 +1,12 @@
 {
-    "title": "Bienvenue sur Documento",
-    "description": "Un site vitrine simple basé sur React."
+  "home": {
+    "tagline": "Le framework React minimal pour vos docs",
+    "getStarted": "Commencer",
+    "techTitle": "Technologies utilisées",
+    "viteDesc": "Vite pour un développement rapide.",
+    "reactDesc": "React pour des interfaces dynamiques.",
+    "i18nDesc": "i18next pour la traduction facile.",
+    "teamTitle": "L'équipe derrière Documento"
   }
+}
+
